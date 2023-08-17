@@ -23,20 +23,17 @@ import threejs from "./tech/threejs.svg";
 import firebase from "./tech/firebase.png";
 import sql from "./tech/sql.png";
 
-import meta from "./company/meta.png";
-import shopify from "./company/shopify.png";
-import starbucks from "./company/starbucks.png";
-import tesla from "./company/tesla.png";
 import linemar from "./company/linemar.jpg";
 import perboni from "./company/perboni.png";
 import allinsys from "./company/allinsys.jpg";
 import jh from "./company/jh.png";
 
-import carrent from "./carrent.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
+import sellin from "./sellin.png";
+import szene from "./szene.png";
 
 export {
+  sellin,
+  szene,
   perboni,
   allinsys,
   jh,
@@ -63,13 +60,5 @@ export {
   tailwind,
   typescript,
   threejs,
-  meta,
-  shopify,
-  starbucks,
-  tesla,
-  linemar,
-
-  carrent,
-  jobit,
-  tripguide,
+  linemar
 };
